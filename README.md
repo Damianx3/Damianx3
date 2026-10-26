@@ -19,8 +19,6 @@ I'm interested in data engineering, machine learning, and software development. 
 
 **Frontend:** React, Next.js
 
-**Tools:** Git, GitHub
-
 ### Outside of Coding
 
 - I have three cats.
