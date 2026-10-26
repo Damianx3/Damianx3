@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hey, I'm Damian 👋
 
-<!--
-**Damianx3/Damianx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UTRGV, graduating in December 2026.
 
-Here are some ideas to get you started:
+I'm interested in data engineering, machine learning, and software development. I enjoy working with data, building things from scratch, and figuring out how different systems work together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**A little about what I'm doing:**
+- Currently building **GridPulse**, a project exploring data engineering and electricity demand forecasting.
+- Previously worked on data analytics and dashboard development at Brownsville PUB.
+- Learning more about machine learning, backend development, and building reliable data systems.
+
+### Tech Stack
+
+**Languages:** Python, SQL, JavaScript, TypeScript
+
+**Data & ML:** Pandas, scikit-learn, XGBoost, Power BI
+
+**Backend & Databases:** FastAPI, PostgreSQL, Supabase
+
+**Frontend:** React, Next.js
+
+**Tools:** Git, GitHub
+
+### Outside of Coding
+
+- I have three cats.
+- Not really a coffee or tea person.
+- I like building things that tell a story, especially with data.
+- I'm a first-generation college student from South Texas.
+- I enjoy learning how things work, even if that means breaking them a few times first.
